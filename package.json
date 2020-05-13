@@ -1,0 +1,25 @@
+{
+  "name": "drews_date_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmcg89/date_library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmcg89/date_library/issues"
+  },
+  "homepage": "https://github.com/dmcg89/date_library#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
